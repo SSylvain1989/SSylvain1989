@@ -6,13 +6,11 @@
 
 - 👯 I’m looking to collaborate on **NextJS projects** .
 
-- 🌱 I’m currently learning **TypeScript**.
-
-- 💬 Ask me about **NodeJS / Express / React / NextJS**.
+- 💬 Ask me about **React / NextJS**.
 
 - 📫 How to reach me **sylvain.sigonnez@gmail.com**.
 
-- 💻 I'm available for work : **cdi/full time job**.
+- 💻 I'm available for work on: **remote / full time job**.
 
  
    <p align="center"><img src="https://github-readme-stats-1-delta.vercel.app/api?username=SSylvain1989&show_icons=true" alt="SSylvain1989" /></p>
